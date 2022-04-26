@@ -1,0 +1,2 @@
+# covid-19-run
+ Repository Penulisan Ilmiah berjudul "PEMBUATAN APLIKASI GAME ENDLESS RUNNER “COVID-19 RUN” PADA ANDROID DENGAN MENGGUNAKAN UNITY & BLENDER" Universitas Gunadarma
